@@ -7,4 +7,4 @@ This project contains a puzzle game where the player needs to fill the grid with
 2. **Volume control**: The player can adjust the volume of the music.
 3. **Records**: The game records the completion time and the number of stars the player gets based on the completion time.
 4. **Answer**: The player can view all the solutions to the puzzle.
-5. ***Music & sound effects**: Background music and congrats music(when accomplishing a level) will be played. Click on the mouse and keyboard to activate sound effects.
+5. **Music & sound effects**: Background music and congrats music(when accomplishing a level) will be played. Click on the mouse and keyboard to activate sound effects.
