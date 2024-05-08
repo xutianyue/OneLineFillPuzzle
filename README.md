@@ -14,7 +14,7 @@ This project contains a puzzle game where the player needs to fill the grid with
 - Run `OneLineFillGame.py`, with certain font, icons, images, musics and `.json` file(s) needed.
 
 ## Rules
-![Image text]( https://github.com/xutianyue/Lazors_Project_Group6_24Spring/blob/main/tiny_5_solution.png)
+![Image text](https://github.com/xutianyue/OneLineFillPuzzle/blob/main/rules.jpg)
 
 ## Contact
 Xilei Huang: <xhuan104@jh.edu>  
