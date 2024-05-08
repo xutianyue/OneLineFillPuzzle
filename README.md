@@ -9,5 +9,13 @@ This project contains a puzzle game where the player needs to fill the grid with
 4. **Answer**: The player can view all the solutions to the puzzle.
 5. **Music & sound effects**: Background music and congrats music(when accomplishing a level) will be played. Click on the mouse and keyboard to activate sound effects.
 
-## Rules
+## Usage
+- Install Pygame library `pip install pygame`
+- Run `OneLineFillGame.py`, with certain font, icons, images, musics and `.json` file(s) needed.
 
+## Rules
+![Image text]( https://github.com/xutianyue/Lazors_Project_Group6_24Spring/blob/main/tiny_5_solution.png)
+
+## Contact
+Xilei Huang: <xhuan104@jh.edu>  
+Tianyue Xu: <txu48@jh.edu>  
